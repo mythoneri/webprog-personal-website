@@ -1,16 +1,21 @@
-    body {
-        background-color: #b7e4c7;
+body {
+  background-color: #b7e4c7;
+  font-family: 'Arial', sans-serif; 
 }
+
 h1 {
-    color: #081c15;
-    text-align: center;
-    font-size: 24px;    
+  color: #081c15;
+  text-align: center;
+  font-size: 24px; 
 }
+
 h2 {
-    color: #a3b18a;
-    font-size:18px;
+  color: #a3b18a;
+  font-size: 18px;
 }
+
 p {
-    font-family: arial;
-    font-size: 16px;
+  font-size: 14px; 
+  color: #333333;
+  line-height: 1.5; 
 }
