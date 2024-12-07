@@ -1,0 +1,85 @@
+header {
+    background: #344e41;
+    color: #dad7cd;
+    text-align: left;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  
+  body {
+    background-color: #a3b18a;
+  }
+  
+  h1 {
+    margin-left: 10px;
+    line-height: 30px;
+    font-family: Century Gothic;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    border-radius: 5px;
+  }
+  
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    border-radius: 5px;
+  }
+  
+  .grid-item {
+    background-color: #344e41;
+    flex: 1 1 200px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: left;
+    color: #dad7cd;
+  }
+  
+  .gallery {
+    background-color: #344e41;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: left;
+    color: #dad7cd;
+    font-size: 20.5px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .picture {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+  }
+  
+  h3 {
+    line-height: 30px;
+    font-family: Century Gothic;
+    text-align: center;
+  }
+  
+  p {
+    margin-left: 12px;
+    margin-right: 10px;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: Century Gothic;
+  }
+  
+  ul {
+    margin-left: 12px;
+    margin-right: 10px;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: Century Gothic;
+    color: #dad7cd;
+  }
