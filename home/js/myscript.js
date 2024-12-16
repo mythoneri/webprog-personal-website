@@ -3,6 +3,6 @@ function Function1() {
 }
   
 function Function2() {
-  document.getElementById("color").style.color = "cornflowerblue";
-  document.getElementById("color").innerHTML = "Blue!"
+  document.getElementById("color").style.color = #344e41;
+  document.getElementById("color").innerHTML = "Green!"
 }
