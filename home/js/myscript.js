@@ -1,8 +1,8 @@
-function button1() {
+function Function1() {
   document.getElementById("paragraph").innerHTML = "Paragraph changed.";
 }
   
-function button2() {
-  document.getElementById("color").style.color = #2d6a4f;
-  document.getElementById("color").innerHTML = "Green!"
+function Function2() {
+  document.getElementById("color").style.color = "cornflowerblue";
+  document.getElementById("color").innerHTML = "Blue!"
 }
